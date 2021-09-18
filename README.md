@@ -7,4 +7,5 @@
 ### 개발사용툴 (IDE) : Android Studio v4.2.2
 ### 소속 : 지윤컴 교습소
 
-<img src="KakaoTalk_20210918_202852017.png" width="1600"/>
+![image](https://user-images.githubusercontent.com/90504833/133887566-d702efe2-5470-4f06-bc31-67f2ace8b27a.png)
+
