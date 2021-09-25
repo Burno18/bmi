@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="title">비만도 계산기</string>
+    <string name="height">당신의 키(cm)</string>
+    <string name="wight">당신의 몸무게(kg)</string>
+    <string name="button">계산하기</string>
+</resources>
